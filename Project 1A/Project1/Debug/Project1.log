@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (._Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Infix_To_postfix.cpp
+\\kc.umkc.edu\kc-users\home\n\nmsykr\desktop\project1\project1\infix_to_postfix.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Postfix_Evaluator.cpp
+\\kc.umkc.edu\kc-users\home\n\nmsykr\desktop\project1\project1\postfix_evaluator.cpp(222): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\kc.umkc.edu\kc-users\home\n\nmsykr\desktop\project1\project1\postfix_evaluator.cpp(245): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project1.vcxproj -> \\kc.umkc.edu\kc-users\home\n\nmsykr\Desktop\Project1\Debug\Project1.exe
